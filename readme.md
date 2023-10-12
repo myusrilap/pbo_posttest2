@@ -1,4 +1,4 @@
-<img width="503" alt="image" src="https://github.com/myusrilap/pbo_posttest2/assets/126448864/5b22e395-5fff-479f-8944-4e8a581e34ea">Nama: Muhammad Yusril Arjulio Prayitno
+Nama: Muhammad Yusril Arjulio Prayitno
 NIM: 2209116065
 
 Tema coding:
